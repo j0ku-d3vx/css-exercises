@@ -1,0 +1,18 @@
+.bg-red {
+    background-color: lightcoral;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#color-blue {
+    color: blue;
+    font-size: 36px;
+}
+
+.sizeup {
+    font-size: 24px;
+}
+
+#bg-green {
+    background-color: lightgreen;
+    font-weight: bold;
+}
