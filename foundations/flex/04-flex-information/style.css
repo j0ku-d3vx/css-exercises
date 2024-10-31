@@ -24,3 +24,26 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.card-section {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 32px;
+}
+
+.cards {
+  display: flex;
+  gap: 52px;
+  justify-content: center;
+}
+
+.card {
+  width: 200px;
+}
+
+.text {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
